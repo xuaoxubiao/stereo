@@ -18,4 +18,12 @@
       0,1 0,2;0,0 1,0;0,1 1,1;0,2 1,2;1,0 1,1;1,1 1,2;1,1 2,1;1,2 2,2;2,0 2,1
 
 #### 运行结果
-      
+      Please input the size of Maze(input value for m,n):3 3
+      Please input the connected coordinate：0,1 0,2;0,0 1,0;0,1 1,1;0,2 1,2;1,0 1,1;1,1 1,2;1,1 2,1;1,2 2,2;2,0 2,1
+      [W] [W] [W] [W] [W] [W] [W]
+      [W] [R] [W] [R] [R] [R] [W]
+      [W] [R] [W] [R] [W] [R] [W]
+      [W] [R] [R] [R] [R] [R] [W]
+      [W] [W] [W] [R] [W] [R] [W]
+      [W] [R] [R] [R] [W] [R] [W]
+      [W] [W] [W] [W] [W] [W] [W]
